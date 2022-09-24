@@ -1,0 +1,15 @@
+Alpar2
+17
+320
+Astra
+250
+130
+Brofen
+40
+20
+Dijex
+4
+150
+Panadol
+19
+200

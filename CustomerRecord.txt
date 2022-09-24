@@ -1,0 +1,36 @@
+1
+Sajjad Ali
+Tue Jun 22 03:20:18 2021
+2
+Medicince Detail : 
+Panadol
+4
+800
+Alpar2
+3
+960
+Total Price : 
+1760
+--------------------
+2
+Ejaz Ali
+Tue Jun 22 03:20:45 2021
+1
+Medicince Detail : 
+Astra
+120
+15600
+Total Price : 
+15600
+--------------------
+3
+Awais Arshad
+Tue Jun 22 03:34:05 2021
+1
+Medicince Detail : 
+Astra
+30
+3900
+Total Price : 
+3900
+--------------------
